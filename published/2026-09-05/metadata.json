@@ -5,9 +5,9 @@
   "approved_at": "2026-09-05T16:08:00+03:00",
   "cover_status": "approved",
   "source_count": 10,
-  "repository_commit": "3e7a52b9d3189d30d1715aefae511fe79d37a34b",
+  "repository_commit": "9902fba88a03b3986e9743b116f51aba64253987",
   "github_pages": {
-    "status": "pending_deploy",
+    "status": "built",
     "post_path": "site/_posts/2026-09-05-gis-ai-agent-infrastructure.md",
     "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/09/05/gis-ai-agent-infrastructure/"
   },
