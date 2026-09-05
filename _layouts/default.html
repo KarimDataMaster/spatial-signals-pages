@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ru-RU' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">Spatial Signals</a>
+      <nav class="site-nav" aria-label="Основная навигация">
+        <a href="{{ '/' | relative_url }}">Главная</a>
+        <a href="{{ '/archive/' | relative_url }}">Архив</a>
+      </nav>
+      <span class="descriptor">Пространственный радар</span>
+    </div>
+  </header>
+
+  <main class="shell content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell">Spatial Signals · GeoAI, geospatial, digital twins and spatial intelligence.</div>
+  </footer>
+</body>
+</html>

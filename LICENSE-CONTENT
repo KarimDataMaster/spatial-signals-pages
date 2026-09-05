@@ -1,0 +1,35 @@
+Spatial Signals content license
+
+Except where otherwise noted, the editorial and knowledge content in this repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Covered by CC BY 4.0:
+- docs/**
+- skills/**
+- prompts/**
+- watchlist/**
+- published/**
+- site/_posts/**
+- original Spatial Signals cover images and brand/editorial assets, unless a file-specific notice states otherwise
+
+Attribution
+
+When reusing or adapting covered material, please provide reasonable attribution, for example:
+
+"Spatial Signals by KarimDataMaster — https://github.com/KarimDataMaster/spatial-signals — licensed under CC BY 4.0."
+
+For adaptations, indicate that changes were made. When practical, link to the specific article, file, or repository revision used as the source.
+
+Exclusions
+
+This license does not apply to material that Spatial Signals does not own or cannot relicense, including:
+- third-party screenshots, images, maps, charts, logos, trademarks, and brand assets;
+- quoted or referenced source material beyond the rights expressly available for reuse;
+- third-party datasets, code, standards, papers, or documentation linked from the repository;
+- any file carrying its own license or copyright notice.
+
+Such material remains subject to the rights and terms of its respective owner or source.
+
+CC BY 4.0 allows sharing and adaptation for any purpose, including commercial use, subject to attribution and the other terms of the license.

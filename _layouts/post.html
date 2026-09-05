@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <p class="eyebrow">Spatial Signals</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    <div class="meta">
+      <span>Неделя {{ page.date | date: "%V" }}</span>
+      <span>·</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d.%m.%Y" }}</time>
+      {% if page.reading_time %}<span>· {{ page.reading_time }}</span>{% endif %}
+    </div>
+    {% if page.cover %}
+      <figure class="hero">
+        <img src="{{ page.cover | relative_url }}" alt="{{ page.cover_alt | default: page.title }}">
+      </figure>
+    {% endif %}
+  </header>
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  <footer class="post-license">
+    <p>
+      <strong>Spatial Signals</strong> ·
+      <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> ·
+      <a href="https://github.com/KarimDataMaster/spatial-signals-pages/blob/main/{{ page.path }}">source</a>
+    </p>
+    <p class="post-license-note">Можно цитировать и адаптировать материал при указании авторства и ссылки на источник. Сторонние изображения и материалы могут иметь собственные условия использования.</p>
+  </footer>
+
+  <nav class="post-nav issue-navigation" aria-label="Навигация по выпускам">
+    <div class="issue-nav-side issue-nav-prev">
+      {% if page.previous %}
+        <span class="issue-nav-label">Предыдущий выпуск</span>
+        <a href="{{ page.previous.url | relative_url }}">← {{ page.previous.date | date: "%d.%m.%Y" }}</a>
+      {% endif %}
+    </div>
+    <a class="archive-link" href="{{ '/archive/' | relative_url }}">Все выпуски</a>
+    <div class="issue-nav-side issue-nav-next">
+      {% if page.next %}
+        <span class="issue-nav-label">Следующий выпуск</span>
+        <a href="{{ page.next.url | relative_url }}">{{ page.next.date | date: "%d.%m.%Y" }} →</a>
+      {% endif %}
+    </div>
+  </nav>
+</article>

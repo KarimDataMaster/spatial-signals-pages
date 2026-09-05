@@ -1,0 +1,24 @@
+title: Spatial Signals
+description: "Пространственный радар: GeoAI, geospatial, spatial computing, digital twins and spatial intelligence."
+lang: ru-RU
+url: "https://karimdatamaster.github.io"
+baseurl: "/spatial-signals-pages"
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+future: false
+show_excerpts: true
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Spatial Signals
+
+exclude:
+  - README.md
