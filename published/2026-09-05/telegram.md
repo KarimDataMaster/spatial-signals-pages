@@ -1,18 +1,26 @@
+Неделя 36 · 05.09.2026
+
 GIS постепенно становится инфраструктурой для AI-агентов.
 
 За неделю несколько сигналов сложились в одну картину:
 
 • CARTO вынес функции платформы в MCP: карты, маршруты, изохроны, аналитические процессы и работу с хранилищами данных теперь можно давать агенту как инструменты.
+Источник: https://www.carto.com/blog/all-of-carto-in-every-agent/
 
 • Portolan и CARTO SDI показывают другой подход к инфраструктуре пространственных данных: облачные форматы, STAC-каталог, метаданные и прямой машинный доступ вместо обязательной цепочки "портал - сервер - API".
+Источник: https://carto.com/blog/introducing-portolan-and-carto-sdi/
 
 • Wherobots собрал исследовательский процесс оценки катастрофических рисков для 2,77 млн зданий в Колорадо: растры и векторные данные -> Spatial SQL -> оценки зданий -> H3 -> PMTiles -> карта.
+Источник: https://wherobots.com/blog/how-to-score-every-building-in-a-state-for-catastrophe-risk/
 
 • PlacePulse использует 256-мерные векторные представления мест, чтобы искать территории, похожие на успешные торговые локации.
+Источник: https://carto.com/blog/placepulse-retail-fingerprint/
 
 • В каталоге Sparkgeo уже 89 geospatial MCP-серверов, а в QGIS появился AI GIS AGENT - плагин для связи настольной GIS с агентами через MCP.
+Источники: https://github.com/sparkgeo/geo-mcp-servers и https://plugins.qgis.org/plugins/ai_gis_agent/
 
 • Cesium двигает 3D Tiles к векторным тайлам и составным конвейерам обработки 3D-данных.
+Источник: https://cesium.com/blog/
 
 Главный сдвиг интереснее, чем "чат поверх карты":
 
@@ -20,11 +28,5 @@ GIS постепенно становится инфраструктурой д�
 
 Карта не исчезает. Она становится частью процесса рассуждения, а не всегда его началом.
 
-Источники:
-https://www.carto.com/blog/all-of-carto-in-every-agent/
-https://carto.com/blog/introducing-portolan-and-carto-sdi/
-https://wherobots.com/blog/how-to-score-every-building-in-a-state-for-catastrophe-risk/
-https://carto.com/blog/placepulse-retail-fingerprint/
-https://github.com/sparkgeo/geo-mcp-servers
-https://plugins.qgis.org/plugins/ai_gis_agent/
-https://cesium.com/blog/
+Подробная версия:
+https://karimdatamaster.github.io/spatial-signals-pages/2026/09/05/gis-ai-agent-infrastructure/
