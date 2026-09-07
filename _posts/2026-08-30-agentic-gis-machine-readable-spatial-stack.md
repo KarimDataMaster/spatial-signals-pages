@@ -25,7 +25,7 @@ Google Research 27 августа представил Planetary Prediction Engi
 
 Смысл для рынка: если такой подход станет продуктовым, GeoAI будет конкурировать не только по качеству карты, но и по качеству автоматизированной исследовательской цепочки: какие данные выбраны, как проверены, какая модель построена, можно ли повторить результат и понять ограничения.
 
-Источник: https://www.research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/
+Источник: [Google Research - Planetary prediction engine](https://www.research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
 
 ### 2. Google AgentHands показывает AI-агента в физическом пространстве
 
@@ -35,7 +35,7 @@ Google Research 25 августа описал AgentHands - XR-прототип,
 
 Смысл для GeoAI: это другой край пространственного стека. На одном конце - карты, базы данных и спутниковые данные; на другом - физический мир, где агент должен понимать "вот это", "сюда", "поверни здесь" и "не трогай это". Для spatial computing это прямой шаг к агентам, которые не просто анализируют пространство, а действуют внутри него вместе с человеком.
 
-Источник: https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/
+Источник: [Google Research - AgentHands](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)
 
 ### 3. PostGIS готовит новую линию для пространственных баз данных
 
@@ -45,7 +45,7 @@ PostGIS - расширение PostgreSQL для хранения и анали�
 
 Отдельно заметно усиление защитной части: в списке исправлений есть проверки на некорректные входные геометрии, растровые ошибки памяти, разбор WKT и сериализованной геометрии. Для агентных сценариев это важно: чем больше запросов и геометрий будут генерироваться автоматически, тем выше требования к устойчивости пространственного ядра.
 
-Источник: https://postgis.net/2026/08/PostGIS-3.7.0rc1/
+Источник: [PostGIS - PostGIS 3.7.0rc1](https://postgis.net/2026/08/PostGIS-3.7.0rc1/)
 
 ### 4. Проверка спутниковых изображений становится отдельным направлением GeoAI
 
@@ -55,7 +55,7 @@ PostGIS - расширение PostgreSQL для хранения и анали�
 
 Почему это важно: чем больше AI используется в наблюдении Земли, тем важнее становится не только генерация и поиск данных, но и доверие к ним. Если спутниковая сцена используется для страхования, безопасности, журналистики, городского планирования или кризисного реагирования, вопрос "это реальное наблюдение или правдоподобная подделка" становится частью продуктовой инфраструктуры.
 
-Источник: https://doi.org/10.1038/s41598-026-67323-1
+Источник: [Scientific Reports - спутниковая image-forensics статья](https://doi.org/10.1038/s41598-026-67323-1)
 
 ### 5. ICEYE добавляет прогнозный слой к спутниковой информации о наводнениях
 
@@ -65,7 +65,7 @@ ICEYE - оператор SAR-спутников и поставщик данны
 
 Почему это сильный сигнал: рынок пространственной оценки риска движется от статичных карт к операционным системам принятия решений до, во время и после события. Для страхования, перестрахования, управления чрезвычайными ситуациями и государственных служб ценность будет в связке "наблюдение + прогноз + обновление по мере развития события".
 
-Источник: https://www.iceye.com/newsroom/press-releases/iceye-and-the-water-institute-partner-to-advance-the-next-generation-of-predictive-flood-intelligence
+Источник: [ICEYE - predictive flood intelligence partnership](https://www.iceye.com/newsroom/press-releases/iceye-and-the-water-institute-partner-to-advance-the-next-generation-of-predictive-flood-intelligence)
 
 ### 6. Esri показывает AI-процесс, который превращает PDF в карту
 
@@ -75,7 +75,7 @@ Esri 28 августа опубликовал пример рабочего пр
 
 Смысл шире: у многих организаций есть десятилетия PDF, отчетов, актов, инспекционных форм и инженерных журналов. Если они становятся слоями, объектами и атрибутами, то старый архив превращается в живую пространственную базу знаний.
 
-Источник: https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/from-documents-to-a-living-map-transform-boring-logs-with-ai-in-arcgis-pro
+Источник: [Esri - From documents to a living map](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/from-documents-to-a-living-map-transform-boring-logs-with-ai-in-arcgis-pro)
 
 ### 7. Indonesia запускает Piksel как национальную платформу спутниковой аналитики
 
@@ -83,7 +83,7 @@ Piksel - Digital Earth Indonesia, инициатива Badan Informasi Geospasia
 
 Почему это важно: это пример суверенной инфраструктуры Earth Observation. Государственное агентство не просто публикует данные, а формирует рабочую среду для исследователей, аналитиков и ведомств. Для стран с большим географическим масштабом и облачностью, как Индонезия, такая платформа может стать основой мониторинга сельского хозяйства, побережий, земного покрова и природных рисков.
 
-Источник: https://piksel.big.go.id/en/blog/
+Источник: [Piksel - national satellite imagery processing platform](https://piksel.big.go.id/en/blog/)
 
 ## What changed: До -> Теперь -> Следствие
 
@@ -102,10 +102,10 @@ Piksel - Digital Earth Indonesia, инициатива Badan Informasi Geospasia
 
 ## Sources
 
-- Google Research: Planetary prediction engine - https://www.research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/
-- Google Research: AgentHands - https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/
-- PostGIS: PostGIS 3.7.0rc1 - https://postgis.net/2026/08/PostGIS-3.7.0rc1/
-- Scientific Reports: Multi-scale optical scanning holography for robust manipulation detection in satellite images - https://doi.org/10.1038/s41598-026-67323-1
-- ICEYE: партнерство по прогнозной информации о наводнениях - https://www.iceye.com/newsroom/press-releases/iceye-and-the-water-institute-partner-to-advance-the-next-generation-of-predictive-flood-intelligence
-- Esri: From documents to a living map - https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/from-documents-to-a-living-map-transform-boring-logs-with-ai-in-arcgis-pro
-- Piksel: national satellite imagery processing platform - https://piksel.big.go.id/en/blog/
+- [Google Research - Planetary prediction engine](https://www.research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
+- [Google Research - AgentHands](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)
+- [PostGIS - PostGIS 3.7.0rc1](https://postgis.net/2026/08/PostGIS-3.7.0rc1/)
+- [Scientific Reports - Multi-scale optical scanning holography for robust manipulation detection in satellite images](https://doi.org/10.1038/s41598-026-67323-1)
+- [ICEYE - партнерство по прогнозной информации о наводнениях](https://www.iceye.com/newsroom/press-releases/iceye-and-the-water-institute-partner-to-advance-the-next-generation-of-predictive-flood-intelligence)
+- [Esri - From documents to a living map](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/from-documents-to-a-living-map-transform-boring-logs-with-ai-in-arcgis-pro)
+- [Piksel - national satellite imagery processing platform](https://piksel.big.go.id/en/blog/)
