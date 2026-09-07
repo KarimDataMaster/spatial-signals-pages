@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "issue_date": "2026-08-23",
+  "week": 34,
+  "period": {
+    "start": "2026-08-17",
+    "end": "2026-08-23"
+  },
+  "title": "Пространственные данные начинают описывать ритм места",
+  "main_thesis": "GeoAI смещается от статичных слоев к данным, которые описывают поведение места во времени, население под риском, сценарии событий и воспроизводимые пространственные вычисления.",
+  "slug": "place-rhythm-spatial-risk",
+  "source_count": 7,
+  "github_pages": {
+    "status": "pending_deploy",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/08/23/place-rhythm-spatial-risk/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "approved_for_public_export",
+  "approved_at": "2026-09-07T17:08:00+03:00",
+  "cover_status": "approved"
+}
