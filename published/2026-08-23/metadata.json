@@ -11,8 +11,11 @@
   "slug": "place-rhythm-spatial-risk",
   "source_count": 7,
   "github_pages": {
-    "status": "pending_deploy",
-    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/08/23/place-rhythm-spatial-risk/"
+    "status": "built",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/08/23/place-rhythm-spatial-risk/",
+    "verified_at": "2026-09-07T22:03:00+03:00",
+    "deployment_run": "34154075714",
+    "public_commit": "3d50656d36cdae4e406e6415f8382d070f011f4e"
   },
   "manual_channels": [
     "telegram",
@@ -20,5 +23,6 @@
   ],
   "publication": "approved_for_public_export",
   "approved_at": "2026-09-07T17:08:00+03:00",
-  "cover_status": "approved"
+  "cover_status": "approved",
+  "repository_commit": "617927f665dfd75c7eee3cd892384e7f3a1a4454"
 }
