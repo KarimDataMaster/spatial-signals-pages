@@ -11,10 +11,11 @@
   "slug": "agentic-gis-machine-readable-spatial-stack",
   "source_count": 7,
   "github_pages": {
-    "status": "pending_deploy",
+    "status": "built",
     "post_path": "site/_posts/2026-08-30-agentic-gis-machine-readable-spatial-stack.md",
     "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/08/30/agentic-gis-machine-readable-spatial-stack/"
   },
+  "repository_commit": "5392264ed33fe38453bdc26e1c29fe200aad0cd6",
   "manual_channels": [
     "telegram",
     "linkedin"
