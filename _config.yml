@@ -3,6 +3,7 @@ description: "Пространственный радар: GeoAI, geospatial, sp
 lang: ru-RU
 url: "https://karimdatamaster.github.io"
 baseurl: "/spatial-signals-pages"
+timezone: Europe/Moscow
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
 future: false
