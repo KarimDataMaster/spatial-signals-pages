@@ -2,6 +2,12 @@
 
 FINAL_ASSET: `assets/covers/2026-09-11/hero.png`
 
+REQUIRED_COVER_TEXT:
+- `Spatial Signals`
+- `Week 37`
+- `2026`
+- `Operational Trust in GeoAI`
+
 MAIN_THESIS: GeoAI is moving from demos into operational systems where governed agent tools, reliable field data, validation, and human control matter.
 
 KEY_INPUTS:
@@ -19,6 +25,7 @@ A serious operational geospatial command scene, not a marketing hero. Show one c
 TEXT:
 Spatial Signals
 Week 37
+2026
 Operational Trust in GeoAI
 
 AVOID:
