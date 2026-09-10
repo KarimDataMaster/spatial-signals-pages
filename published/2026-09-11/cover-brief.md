@@ -1,5 +1,7 @@
 # Cover brief - 2026-09-11
 
+FINAL_ASSET: `assets/covers/2026-09-11/hero.png`
+
 MAIN_THESIS: GeoAI is moving from demos into operational systems where governed agent tools, reliable field data, validation, and human control matter.
 
 KEY_INPUTS:

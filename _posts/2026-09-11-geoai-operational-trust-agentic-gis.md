@@ -5,12 +5,12 @@ subtitle: "От агентного GIS в корпоративных AI-сред
 date: 2026-09-11 01:30:00 +0300
 slug: geoai-operational-trust-agentic-gis
 permalink: /2026/09/11/geoai-operational-trust-agentic-gis/
+cover: /assets/covers/2026-09-11/hero.png
+cover_alt: "Spatial Signals cover: operational GeoAI evidence chain with map layers, field data, validation, route alternatives and lunar terrain"
 main_thesis: "Пространственный AI выходит из демонстраций в операционные контуры, где важны надежность данных, права доступа, журнал действий, полевой сбор, проверяемость источников, человеческий контроль и границы ответственности."
 status: published
 reading_time: "12 мин"
 ---
-# GeoAI проходит проверку эксплуатацией
-
 **Неделя 37 · 6-11 сентября 2026**
 
 Главный сигнал недели: пространственный AI выходит из демонстраций в рабочие контуры. Теперь важны не только модель и карта, но и надежность данных, полевой сбор, права доступа, журнал действий, регуляторные ограничения, качество спутниковых наблюдений и контроль человека в точках риска.

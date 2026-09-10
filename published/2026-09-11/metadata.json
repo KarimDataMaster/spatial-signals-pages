@@ -11,6 +11,12 @@
   "main_thesis": "Пространственный AI выходит из демонстраций в операционные контуры, где важны надежность данных, права доступа, журнал действий, полевой сбор, проверяемость источников, человеческий контроль и границы ответственности.",
   "slug": "geoai-operational-trust-agentic-gis",
   "source_count": 19,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-09-11/hero.png",
+    "alt": "Spatial Signals cover: operational GeoAI evidence chain with map layers, field data, validation, route alternatives and lunar terrain",
+    "generation": "generated_for_issue"
+  },
   "included_sections": [
     "main_signals",
     "practical_stack",
