@@ -1,0 +1,32 @@
+{
+  "status": "published",
+  "issue_date": "2026-09-11",
+  "week": 37,
+  "period": {
+    "start": "2026-09-06",
+    "end": "2026-09-11"
+  },
+  "title": "GeoAI проходит проверку эксплуатацией",
+  "subtitle": "От агентного GIS в корпоративных AI-средах до полевого сбора, страховых процессов и доверия к спутниковым данным.",
+  "main_thesis": "Пространственный AI выходит из демонстраций в операционные контуры, где важны надежность данных, права доступа, журнал действий, полевой сбор, проверяемость источников, человеческий контроль и границы ответственности.",
+  "slug": "geoai-operational-trust-agentic-gis",
+  "source_count": 19,
+  "included_sections": [
+    "main_signals",
+    "practical_stack",
+    "local_radar",
+    "research_context",
+    "events",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/09/11/geoai-operational-trust-agentic-gis/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}
