@@ -1,0 +1,39 @@
+{
+  "status": "published",
+  "issue_date": "2026-09-18",
+  "week": 38,
+  "period": {
+    "start": "2026-09-11",
+    "end": "2026-09-18"
+  },
+  "title": "AI получает координаты мира",
+  "subtitle": "От карт для агентов и симуляций реальных объектов до сквозного SAR и составных цифровых двойников.",
+  "main_thesis": "AI-системам нужен актуальный и проверяемый пространственный слой, связывающий запросы с местами, наблюдениями, симуляциями и действиями в физическом мире.",
+  "slug": "ai-grounded-in-place",
+  "approved_at": "2026-09-19T11:14:01+03:00",
+  "source_count": 12,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-09-18/hero.png",
+    "alt": "Spatial Signals: карты как интерфейсы агентов, симуляции реальных мест, наблюдение стресса растений и модульные цифровые двойники",
+    "generation": "generated_for_issue"
+  },
+  "included_sections": [
+    "main_signals",
+    "practical_stack",
+    "local_radar",
+    "events",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "post_path": "site/_posts/2026-09-18-ai-grounded-in-place.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/09/18/ai-grounded-in-place/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}
