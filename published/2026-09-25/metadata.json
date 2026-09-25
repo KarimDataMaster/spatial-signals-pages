@@ -1,0 +1,41 @@
+{
+  "status": "published",
+  "issue_date": "2026-09-25",
+  "week": 39,
+  "period": {
+    "start": "2026-09-19",
+    "end": "2026-09-25"
+  },
+  "title": "От карт к агентной инфраструктуре",
+  "subtitle": "Как MCP превращает карты в инструменты для агентов, а вокруг пространственных данных растут отраслевые AI-системы.",
+  "main_thesis": "Пространственные данные и операции превращаются в вызываемую агентами инфраструктуру, а поверх нее формируются отраслевые GeoAI-решения.",
+  "slug": "maps-to-agent-infrastructure",
+  "approved_at": "2026-09-25",
+  "source_count": 19,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-09-25/hero.jpg",
+    "alt": "Spatial Signals: пространственные сервисы становятся инструментами AI-агентов, от MCP-карт до отраслевых GeoAI-решений",
+    "generation": "generated_for_issue"
+  },
+  "included_sections": [
+    "main_signals",
+    "mcp_market_comparison",
+    "russia_market_comparison",
+    "research",
+    "conference_radar",
+    "market_synthesis",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "post_path": "site/_posts/2026-09-25-maps-to-agent-infrastructure.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/09/25/maps-to-agent-infrastructure/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}
