@@ -43,7 +43,7 @@
 
 ## Approved asset
 
-- Repository path: `assets/covers/2026-10-02/hero.png`
-- Source format: PNG
+- Repository path: `assets/covers/2026-10-02/hero.jpg`
+- Source format: JPEG
 - Dimensions: 1727 × 911
-- SHA-256: `F14D06140F1F92169AEDA5D9F3D3E85C44FAF675ED32641498EDEC9B82BF99B7`
+- SHA-256: `C6C2C1DC28D5E11A8175BF2B14C64A939F9C39524C5AC8A3223CC96A6C504276`

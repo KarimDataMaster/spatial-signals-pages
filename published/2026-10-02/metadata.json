@@ -15,10 +15,10 @@
   "primary_source_count": 12,
   "cover": {
     "status": "published",
-    "path": "assets/covers/2026-10-02/hero.png",
+    "path": "assets/covers/2026-10-02/hero.jpg",
     "alt": "Spatial Signals, неделя 40: от геоинструментов к решениям — маршрутизация, выбор локации, пространственные данные и высокоточная карта Алматы для автономного транспорта",
     "generation": "generated_for_issue",
-    "sha256": "F14D06140F1F92169AEDA5D9F3D3E85C44FAF675ED32641498EDEC9B82BF99B7"
+    "sha256": "C6C2C1DC28D5E11A8175BF2B14C64A939F9C39524C5AC8A3223CC96A6C504276"
   },
   "included_sections": [
     "main_signals",

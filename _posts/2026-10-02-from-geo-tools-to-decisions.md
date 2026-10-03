@@ -5,7 +5,7 @@ subtitle: "Как пространственный контекст превра
 date: 2026-10-02 09:00:00 +0300
 slug: from-geo-tools-to-decisions
 permalink: /2026/10/02/from-geo-tools-to-decisions/
-cover: /assets/covers/2026-10-02/hero.png
+cover: /assets/covers/2026-10-02/hero.jpg
 cover_alt: "Spatial Signals, неделя 40: от геоинструментов к решениям — маршрутизация, выбор локации, пространственные данные и высокоточная карта Алматы для автономного транспорта"
 main_thesis: "Пространственный AI смещается от отдельных геоинструментов к системам, которые принимают предметные решения."
 status: published
