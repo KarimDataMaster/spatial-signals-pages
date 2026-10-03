@@ -1,31 +1,32 @@
-Week 40 · 2026-10-02
+Неделя 40 · 02.10.2026
 
-The geospatial AI market is moving one layer up the stack.
+Пространственный ИИ поднимается на уровень выше: от доступа к картам и геоинструментам — к предметным решениям, которые можно проверить и превратить в контролируемое действие.
 
-Last week, the dominant story was about exposing maps and spatial operations to agents. This week, the stronger signal is what happens after access: spatial context is being packaged into narrow decision workflows and physical-world systems.
+Пять сигналов недели складываются в одну картину.
 
-Trimble is pushing AI into transportation execution: multi-stop planning, route orchestration and multi-step operational tasks.
-Source: https://news.trimble.com/2026-09-28-Trimble-Accelerates-Transportation-Modernization-with-Autonomous-AI-and-Agent-Ready-Platforms-at-2026-Insight-Conference
+1. Trimble переносит ИИ в исполнение транспортных задач: планирование маршрутов с несколькими остановками, координацию перевозок и многошаговые операции.
+Источник: https://news.trimble.com/2026-09-28-Trimble-Accelerates-Transportation-Modernization-with-Autonomous-AI-and-Agent-Ready-Platforms-at-2026-Insight-Conference
 
-TomTom’s webinar announcement said it would demonstrate a Site Selection Agent using Maps SDK, Agent toolkit and Embeddings. The recording is gated, so the verifiable technical detail comes from TomTom’s open example: site profiling and ranking, catchment analysis, competition checks and reports. It is a screening workflow, not a revenue forecast.
-Announcement: https://www.tomtom.com/events/webinar/geospatial-intelligence-in-site-selection-modeling-and-ai-agent-building/
-Open example: https://docs.tomtom.com/maps-sdk-js/examples/map-site-selection-agent-react/
+2. TomTom собирает агента выбора локации. Открытый пример показывает профилирование и ранжирование площадок, анализ зон охвата и конкурентов, а также формирование отчёта. Это инструмент первичного отбора, а не прогноз выручки.
+Анонс: https://www.tomtom.com/events/webinar/geospatial-intelligence-in-site-selection-modeling-and-ai-agent-building/
+Открытый пример: https://docs.tomtom.com/maps-sdk-js/examples/map-site-selection-agent-react/
 
-Wherobots published a dated architecture note on September 30 describing how AI coding tools can operate across raster, vector and tabular physical-world data connected through S3 and Iceberg catalogs.
-Source: https://wherobots.com/blog/wherobots-nvidia-geospatial-ai-physical-world/
+3. Wherobots показывает архитектуру, в которой ИИ-инструменты работают с растровыми, векторными и табличными данными физического мира из хранилищ S3 и каталогов Iceberg.
+Источник: https://wherobots.com/blog/wherobots-nvidia-geospatial-ai-physical-world/
 
-Two local signals make the shift more concrete.
+4. В Алматы автомобили Yandex Qazaqstan с лидарами и камерами собирают разметку, светофоры, знаки и геометрию улиц для высокоточной карты будущих испытаний автономного транспорта. Пока машины только картографируют город — автономных пассажирских поездок нет.
+Источник: https://www.gov.kz/memleket/entities/maidd/press/news/details/1298382?lang=ru
 
-In Almaty, Yandex Qazaqstan mapping vehicles equipped with lidar and cameras started collecting road markings, traffic lights, signs and intersection geometry for a high-definition map intended to support future autonomous-transport testing. The vehicles are mapping only; they are not carrying passengers autonomously.
-Source: https://www.gov.kz/memleket/entities/maidd/press/news/details/1298382?lang=ru
+5. NextGIS Frontend 4.0 унифицирует работу с Leaflet, OpenLayers и MapLibre GL JS и добавляет документацию, удобную для ИИ-инструментов разработки. Это снижает стоимость сборки прикладных веб-ГИС.
+Источник: https://nextgis.ru/blog/frontend-v4/
 
-NextGIS Frontend 4.0 introduced a more consistent API across Leaflet, OpenLayers and MapLibre GL JS, reusable map operations and LLM-friendly documentation — reducing the cost of building narrow web-GIS applications.
-Source: https://nextgis.ru/blog/frontend-v4/
+Три рыночных вывода:
 
-The pattern I would watch:
-spatial data → domain workflow → decision or localization → controlled action
+— ценность смещается от количества доступных функций к качеству предметного рабочего процесса;
+— пространственный движок становится динамическим источником контекста для ИИ;
+— карта превращается в машиночитаемую модель среды, связанную с решением и действием.
 
-The differentiation is moving away from raw access to map functions and toward usable models of place, explicit constraints and measurable outcomes.
+Главная гипотеза: следующий сильный продуктовый рубеж GeoAI — не «агент с картой», а агент конкретной задачи с явными ограничениями, проверяемым результатом и человеком в контуре решения.
 
-Full Spatial Signals issue:
+Полный выпуск Spatial Signals:
 https://karimdatamaster.github.io/spatial-signals-pages/2026/10/02/from-geo-tools-to-decisions/
