@@ -1,0 +1,42 @@
+{
+  "status": "published",
+  "issue_date": "2026-10-02",
+  "week": 40,
+  "period": {
+    "start": "2026-09-26",
+    "end": "2026-10-02"
+  },
+  "title": "От геоинструментов к решениям",
+  "subtitle": "Как пространственный контекст превращается в предметные решения, проверку и контролируемое действие.",
+  "main_thesis": "Пространственный AI смещается от отдельных геоинструментов к системам, которые принимают предметные решения.",
+  "slug": "from-geo-tools-to-decisions",
+  "approved_at": "2026-10-03",
+  "source_count": 9,
+  "primary_source_count": 9,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-10-02/hero.png",
+    "alt": "Spatial Signals, неделя 40: от геоинструментов к решениям — маршрутизация, выбор локации, пространственные данные и цифровой двойник ТЭЦ",
+    "generation": "generated_for_issue",
+    "sha256": "5C112E06489D7E4AFCD3D7BC642ACF841EC60B9883ADD728B4363FE61EE46E31"
+  },
+  "included_sections": [
+    "main_signals",
+    "research",
+    "practical_stack",
+    "market_synthesis",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "post_path": "site/_posts/2026-10-02-from-geo-tools-to-decisions.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/10/02/from-geo-tools-to-decisions/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}
+
