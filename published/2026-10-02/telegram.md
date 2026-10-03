@@ -1,27 +1,24 @@
 Неделя 40 · 02.10.2026
 
-Главный сигнал недели: GeoAI начинает выходить из слоя «дать агенту карту» в слой «дать агенту конкретное решение».
+Главный сигнал недели: GeoAI начинает выходить из слоя «дать агенту карту» в слой «собрать вокруг пространственных данных конкретное решение».
 
-Trimble показал транспортный стек, где AI уже не только отвечает на вопросы: Appian Fleet Assistant автоматически строит многоточечные планы, Route Orchestration связывает планирование и исполнение, а Arc Agent выполняет многошаговые операции.
+Trimble переносит AI в транспортные операции: автоматическое многоточечное планирование, связь маршрута с исполнением и многошаговые административные задачи.
 Источник: https://news.trimble.com/2026-09-28-Trimble-Accelerates-Transportation-Modernization-with-Autonomous-AI-and-Agent-Ready-Platforms-at-2026-Insight-Conference
 
-TomTom продемонстрировал Site Selection Agent на Maps SDK, Agent toolkit и Embeddings. То есть карты, мобильность и пространственные представления собираются уже вокруг конкретного бизнес-решения: где открываться.
-Источник: https://www.tomtom.com/events/webinar/geospatial-intelligence-in-site-selection-modeling-and-ai-agent-building/
+TomTom в анонсе вебинара заявил демонстрацию Site Selection Agent с Maps SDK, Agent toolkit и Embeddings. Открытый технический пример показывает проверяемый workflow: профиль и ранжирование площадок, зоны доступности, конкуренция и отчет. Это screening-инструмент, а не прогноз выручки.
+Анонс: https://www.tomtom.com/events/webinar/geospatial-intelligence-in-site-selection-modeling-and-ai-agent-building/
+Пример: https://docs.tomtom.com/maps-sdk-js/examples/map-site-selection-agent-react/
 
-Wherobots развивает похожую идею снизу: пространственные данные, SQL, спутниковые снимки и AI-инструменты становятся контекстным слоем для агентов, работающих с физическим миром.
-Источник: https://wherobots.com/
+Wherobots 30 сентября описал архитектуру, где AI-инструменты работают с растровыми, векторными и табличными данными поверх S3 и Iceberg-каталогов. Это более точный источник, чем главная страница продукта.
+Источник: https://wherobots.com/blog/wherobots-nvidia-geospatial-ai-physical-world/
 
-А СПбПУ показывает другой конец цепочки: цифровой двойник ТЭЦ + AI-оптимизатор + обратная проверка решения в двойнике. Расчет режима сократился до ~15 секунд, в 16 раз.
-Источник: https://ie.spbstu.ru/news/tpp16/
+Локальный радар: в Алматы автомобили Yandex Qazaqstan с лидарами и камерами начали собирать данные для высокоточной карты будущих испытаний автономного транспорта. Пока это только картографирование, без автономной перевозки пассажиров.
+Источник: https://www.gov.kz/memleket/entities/maidd/press/news/details/1298382?lang=ru
 
-Еще два сигнала: Geoapify открыл программу экспериментов с OpenAPI + MCP, а Global Mapper объединяет настольный GIS и полевую работу в одну подписку.
+Еще один локальный сигнал — NextGIS Frontend 4.0. Общий API для Leaflet, OpenLayers и MapLibre GL JS, готовые типовые операции и LLM-friendly документация снижают порог разработки прикладных веб-карт.
+Источник: https://nextgis.ru/blog/frontend-v4/
 
-Итог: ценность постепенно смещается от доступа к пространственной функции к замкнутой цепочке «контекст → решение → проверка → действие».
-
-Источники по дополнительным сигналам:
-Geoapify: https://www.geoapify.com/open-geospatial-program/
-Global Mapper: https://www.bluemarblegeo.com/newsroom/blue-marble-geographics-advances-its-office-to-field-platform-with-new-global-mapper-offering/
+Итог: карта становится не только интерфейсом, но и вычисляемым контекстом, рабочей моделью среды и частью предметного решения.
 
 Подробный выпуск:
 https://karimdatamaster.github.io/spatial-signals-pages/2026/10/02/from-geo-tools-to-decisions/
-
