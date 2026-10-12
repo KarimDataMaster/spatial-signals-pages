@@ -1,0 +1,41 @@
+{
+  "status": "published",
+  "issue_date": "2026-10-09",
+  "week": 41,
+  "period": {
+    "start": "2026-10-03",
+    "end": "2026-10-09"
+  },
+  "title": "От карты к проверяемому пространственному знанию",
+  "subtitle": "Почему проверяемые данные, геометрия и ограничения становятся новым уровнем качества GeoAI.",
+  "main_thesis": "Ценность GeoAI смещается от эффектной карты к проверяемому пространственному контексту, где известны источники, геометрия, масштаб и ограничения результата.",
+  "slug": "from-maps-to-verifiable-spatial-evidence",
+  "approved_at": "2026-10-12",
+  "source_count": 8,
+  "primary_source_count": 8,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-10-09/hero.png",
+    "alt": "Spatial Signals, неделя 41: от карты к проверяемому пространственному знанию — векторные представления мест, спутниковые каталоги, орбитальная геометрия и инженерные модели",
+    "generation": "generated_for_issue",
+    "sha256": "FF0CFBFA8D17BB9CD3D714A11628BE60E67476D417FE645A9DA865A0BD0B354D"
+  },
+  "included_sections": [
+    "main_signals",
+    "research_and_event_radar",
+    "market_synthesis",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "post_path": "site/_posts/2026-10-09-from-maps-to-verifiable-spatial-evidence.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/10/09/from-maps-to-verifiable-spatial-evidence/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}
+
