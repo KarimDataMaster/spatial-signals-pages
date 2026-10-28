@@ -1,0 +1,39 @@
+{
+  "status": "published",
+  "issue_date": "2026-10-16",
+  "week": 42,
+  "period": {
+    "start": "2026-10-10",
+    "end": "2026-10-16"
+  },
+  "title": "От карты к управляемому пространственному агенту",
+  "subtitle": "Как Earth AI, MCP и новый Rust-геостек превращают карты в управляемый контур действий.",
+  "main_thesis": "Пространственный агент становится управляемым рабочим контуром из предметных моделей, явного плана, прав на действия и проверки результата.",
+  "slug": "from-map-to-governed-spatial-agent",
+  "approved_at": "2026-10-28",
+  "source_count": 9,
+  "primary_source_count": 9,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-10-16/hero.png",
+    "alt": "Spatial Signals, неделя 42: от карты к управляемому пространственному агенту — Earth AI, 3D-инструменты, управляемый agentic GIS и новый Rust-геостек",
+    "generation": "generated_for_issue",
+    "sha256": "5784518B6173F5BC6707E0E15888B162B65C3B46584789C02AC9601F4F445F91"
+  },
+  "included_sections": [
+    "main_signals",
+    "market_synthesis",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "post_path": "site/_posts/2026-10-16-from-map-to-governed-spatial-agent.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/10/16/from-map-to-governed-spatial-agent/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}

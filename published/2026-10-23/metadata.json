@@ -1,0 +1,40 @@
+{
+  "status": "published",
+  "issue_date": "2026-10-23",
+  "week": 43,
+  "period": {
+    "start": "2026-10-17",
+    "end": "2026-10-23"
+  },
+  "title": "Пространственные системы входят в рабочий контур",
+  "subtitle": "Как симуляция, спутниковый AI, открытые данные и runtime соединяются с проверяемым действием.",
+  "main_thesis": "Пространственные модели, данные и симуляции соединяются с runtime, физической проверкой и исполнимым результатом.",
+  "slug": "spatial-systems-enter-the-operational-loop",
+  "approved_at": "2026-10-28",
+  "source_count": 12,
+  "primary_source_count": 12,
+  "cover": {
+    "status": "published",
+    "path": "assets/covers/2026-10-23/hero.png",
+    "alt": "Spatial Signals, неделя 43: пространственные системы входят в рабочий контур — физическая проверка, бортовой AI, гиперспектральные данные и карты в ответах агентов",
+    "generation": "generated_for_issue",
+    "sha256": "9C75ABFB32D2ED84A7AA94CDA9B55C25BECBCF863D36387F7FF69403C20B1E67"
+  },
+  "included_sections": [
+    "main_signals",
+    "tools_radar",
+    "market_synthesis",
+    "practical_conclusion",
+    "business_hypotheses"
+  ],
+  "github_pages": {
+    "status": "published_expected",
+    "post_path": "site/_posts/2026-10-23-spatial-systems-enter-the-operational-loop.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/10/23/spatial-systems-enter-the-operational-loop/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "publication": "published"
+}
