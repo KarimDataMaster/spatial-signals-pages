@@ -1,0 +1,48 @@
+{
+  "status": "published",
+  "issue_date": "2026-11-13",
+  "week": 46,
+  "period": {
+    "start": "2026-11-07",
+    "end": "2026-11-13"
+  },
+  "title": "Google Playground: проверить данные о территории обычным вопросом",
+  "slug": "google-playground-geospatial-data",
+  "approved_at": "2026-11-25",
+  "approval": "owner_explicit_publication_instruction",
+  "source_count": 4,
+  "primary_source_count": 4,
+  "source_verification_date": "2026-11-24",
+  "approved_review_sha256": {
+    "pages": "8d476fbab0503c8da123985a252b39aac89bc1416ada61b18dfbb3622c6d3782",
+    "telegram": "522fbb03edf03ff3699794282108be4a65dd29443aa0d02fe5f8675b6f6c8cc4",
+    "linkedin": "fef53b9d333ddfc7237213e7b441a7e202242d02d5c3dfaeeb9a5680bdf7d8e0"
+  },
+  "publication_changes": [
+    "Jekyll title and date moved to front matter for display; editorial body unchanged",
+    "Temporary homepage notices replaced with canonical article links",
+    "Covers regenerated to match final subjects and headlines"
+  ],
+  "cover": {
+    "status": "publication_authorized",
+    "path": "assets/covers/2026-11-13/hero.png",
+    "alt": "Spatial Signals, неделя 46, 2026: Проверить данные обычным вопросом. Google: вопросы к геоданным. Погодные архивы открыты. Niantic: переставить предметы в сцене",
+    "generation": "builtin_imagegen",
+    "sha256": "132dfecd6d5e1e2111cf3976e5cd7754d46967f19aa0f1e46b3041ab6fcf190b"
+  },
+  "github_pages": {
+    "status": "deployment_pending",
+    "post_path": "site/_posts/2026-11-13-google-playground-geospatial-data.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/11/13/google-playground-geospatial-data/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "public_safety": "PASS: public primary sources; no private payloads, credentials, local paths or third-party images",
+  "published_sha256": {
+    "pages": "7537b25275442ce49bbc261c3396da490791e8e2308939fbece584ccfa30d345",
+    "telegram": "be64154a4cb1c3dedcc8be6d19d983305e2bcffde75814e42ea1e2988e75bfd6",
+    "linkedin": "28a8ebfbc479605431d04a87e146b7edc3a5fb2469709ef86f105de1d4a32e90"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "status": "published",
+  "issue_date": "2026-11-06",
+  "week": 45,
+  "period": {
+    "start": "2026-10-31",
+    "end": "2026-11-06"
+  },
+  "title": "Planet AI App: найти место по описанию",
+  "slug": "planet-ai-search-by-description",
+  "approved_at": "2026-11-25",
+  "approval": "owner_explicit_publication_instruction",
+  "source_count": 3,
+  "primary_source_count": 3,
+  "source_verification_date": "2026-11-24",
+  "approved_review_sha256": {
+    "pages": "b100c4c6d9a9fd51003f2b3b5a23e7cb03a895064e211510547440f334e77357",
+    "telegram": "db7864ff33f5aced42996966bd78ac479c76cfd8329af406b36b06eb46567fb4",
+    "linkedin": "982f599b59338e47ab2ee104ceab9c10d8d18916d7bb179ec350ae8e320a2c3c"
+  },
+  "publication_changes": [
+    "Jekyll title and date moved to front matter for display; editorial body unchanged",
+    "Temporary homepage notices replaced with canonical article links",
+    "Covers regenerated to match final subjects and headlines"
+  ],
+  "cover": {
+    "status": "publication_authorized",
+    "path": "assets/covers/2026-11-06/hero.png",
+    "alt": "Spatial Signals, неделя 45, 2026: Найти место по описанию. Planet: поиск без координат. Frameboy: выбрать ракурс в движении. CARTO: передать приложение коллегам",
+    "generation": "builtin_imagegen",
+    "sha256": "8cb1a189a915730f7e0ec446f4a423576f316bb93357c8307f19598e33cff2d4"
+  },
+  "github_pages": {
+    "status": "deployment_pending",
+    "post_path": "site/_posts/2026-11-06-planet-ai-search-by-description.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/11/06/planet-ai-search-by-description/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "public_safety": "PASS: public primary sources; no private payloads, credentials, local paths or third-party images",
+  "published_sha256": {
+    "pages": "81c1e8be5a3f8b94befc5b8112debc177388ec14b72c536850c9464ffb958cfe",
+    "telegram": "2f294639a746e58b4fa47096f02ee9f7a97e7f284e3498cbefdd2057e5c56e10",
+    "linkedin": "5543463cbd17aea5868785082caa5edaeaa86988bad8ebab3ba85511db4189a0"
+  }
+}

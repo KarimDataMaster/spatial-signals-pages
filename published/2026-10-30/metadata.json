@@ -1,0 +1,48 @@
+{
+  "status": "published",
+  "issue_date": "2026-10-30",
+  "week": 44,
+  "period": {
+    "start": "2026-10-24",
+    "end": "2026-10-30"
+  },
+  "title": "Genie 4: что нового в интерактивных мирах Google",
+  "slug": "genie-4-interactive-worlds",
+  "approved_at": "2026-11-25",
+  "approval": "owner_explicit_publication_instruction",
+  "source_count": 6,
+  "primary_source_count": 6,
+  "source_verification_date": "2026-11-24",
+  "approved_review_sha256": {
+    "pages": "f7a6d672dff21557aa0d2a1ff5bb8b2b5015366a3699af920e4f9b52a06c64d0",
+    "telegram": "c220092c8b71873cc6955e660ce465ec9992b0bcc28878154f7ce62ed1267f9a",
+    "linkedin": "36f64706347a0eafe40e8cb14f29adaec0052ce2b2b9c648233b6861dd675a75"
+  },
+  "publication_changes": [
+    "Jekyll title and date moved to front matter for display; editorial body unchanged",
+    "Temporary homepage notices replaced with canonical article links",
+    "Covers regenerated to match final subjects and headlines"
+  ],
+  "cover": {
+    "status": "publication_authorized",
+    "path": "assets/covers/2026-10-30/hero.png",
+    "alt": "Spatial Signals, неделя 44, 2026: Genie 4: мир со звуком. BIM: найти нужные двери. Камера перед полетом на Луну. Данные, сцены и реальные задачи",
+    "generation": "builtin_imagegen",
+    "sha256": "e22332e714f47c688729f4dc08d82b7a5b0ca5ad93b930b2708aee443d742cd3"
+  },
+  "github_pages": {
+    "status": "deployment_pending",
+    "post_path": "site/_posts/2026-10-30-genie-4-interactive-worlds.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/10/30/genie-4-interactive-worlds/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "public_safety": "PASS: public primary sources; no private payloads, credentials, local paths or third-party images",
+  "published_sha256": {
+    "pages": "447443bc1e5a4a4bc55c39d88dc5a43d9fe0bf0612f8b99373e9bcad693f17d0",
+    "telegram": "bdba71b50b17bb221864c7e587d91830556bd890007eba20b252a3e292d888ab",
+    "linkedin": "44cd77647a360b563e659fa46fb555f68fdb553ba7812bc4e84b48aba432b996"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "status": "published",
+  "issue_date": "2026-11-20",
+  "week": 47,
+  "period": {
+    "start": "2026-11-14",
+    "end": "2026-11-20"
+  },
+  "title": "Waldo: AI берется за регулярный анализ геоданных",
+  "slug": "waldo-recurring-geospatial-analysis",
+  "approved_at": "2026-11-25",
+  "approval": "owner_explicit_publication_instruction",
+  "source_count": 4,
+  "primary_source_count": 4,
+  "source_verification_date": "2026-11-24",
+  "approved_review_sha256": {
+    "pages": "a8b740195e581be91f3e4119f11b0442162463df51e35e27f9ce73f9a659075a",
+    "telegram": "009fa2be3c8d6d3afc0b757e602573e88e50608385546d5875651e624bf9ca77",
+    "linkedin": "1ef5cc6fb861acafe60e57c6064bbc78f5a05b632eefba395ac2ad3e92f2de69"
+  },
+  "publication_changes": [
+    "Jekyll title and date moved to front matter for display; editorial body unchanged",
+    "Temporary homepage notices replaced with canonical article links",
+    "Covers regenerated to match final subjects and headlines"
+  ],
+  "cover": {
+    "status": "publication_authorized",
+    "path": "assets/covers/2026-11-20/hero.png",
+    "alt": "Spatial Signals, неделя 47, 2026: Waldo: анализ, который повторяется. VertiGIS: проверка новых данных. Overture: что изменилось в записях. ICEYE Gen5: анонс новых спутников",
+    "generation": "builtin_imagegen",
+    "sha256": "c28497e82b84734d34bd5918e91b6d75dbb52e0cf0f8787518cedcb158b99969"
+  },
+  "github_pages": {
+    "status": "deployment_pending",
+    "post_path": "site/_posts/2026-11-20-waldo-recurring-geospatial-analysis.md",
+    "url": "https://karimdatamaster.github.io/spatial-signals-pages/2026/11/20/waldo-recurring-geospatial-analysis/"
+  },
+  "manual_channels": [
+    "telegram",
+    "linkedin"
+  ],
+  "public_safety": "PASS: public primary sources; no private payloads, credentials, local paths or third-party images",
+  "published_sha256": {
+    "pages": "5be68490d7f605d4e569a6cc9440cc89f5b940ae46588922c1ad07d049e6d26e",
+    "telegram": "ed87255abf4fde71ec28215e3fcfa87dbe012b47dd0bb0e84f5de7d630ce01cf",
+    "linkedin": "8519e1c8f7a51a23cc497b10e52b65185bb293dc0d5e341e917c45e1337630b2"
+  }
+}
